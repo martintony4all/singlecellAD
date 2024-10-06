@@ -6,3 +6,4 @@ This update includes several R script files and a Jupyter notebook for Alzheimer
 - functions/tutorial-functions.R: General tutorial functions.
 - hands-on-1_heatmap-function.R: Heatmap generation functions.
 - Gene_Disease_Pathway_Plots.ipynb: Jupyter notebook for plotting gene-disease pathway relationships.
+- Analysis_plots.ipynb: Jupyter notebook for the analysis generating the plots.
